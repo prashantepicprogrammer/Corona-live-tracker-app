@@ -7,4 +7,4 @@ Few modules are required in this application so please install them using pip to
 
 Covid19 is the name of the virus which is spread in thousands and thounds of people and many of people also lost there lives because of this virus by using this application you can get the current status of infected or recovered people of your country .
 
-### Stay At Home Util The Situation Get Undercontrol!!
+### Stay At Home Until The Situation Get Undercontrol!!
